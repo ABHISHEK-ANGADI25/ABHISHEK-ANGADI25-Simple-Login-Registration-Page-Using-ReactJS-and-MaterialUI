@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+To use this project, you need to clone this project by using following command in your Terminal/CommandLine prompt.
+
+### ``
+
+After, cloning the project you need to install all node modules by using following command in your Terminal/CommandLine prompt.
+
+### `npm install`
+
+Once, you install all node modules using "npm install", then go for run the project with the following steps.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
