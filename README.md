@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 To use this project, you need to clone this project by using following command in your Terminal/CommandLine prompt.
 
-### `git clone https://github.com/ABHISHEK-ANGADI25/ABHISHEK-ANGADI25-Simple-Login-Registration-Page-Using-ReactJS-and-MaterialUI.git`
+git clone https://github.com/ABHISHEK-ANGADI25/ABHISHEK-ANGADI25-Simple-Login-Registration-Page-Using-ReactJS-and-MaterialUI.git
 
 After, cloning the project you need to install all node modules by using following command in your Terminal/CommandLine prompt.
 
